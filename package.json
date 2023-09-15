@@ -1,0 +1,27 @@
+{
+  "name": "bloc-notas",
+  "version": "1.0.0",
+  "description": "mongo + node.js + express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcos-Caballero/BLOC-NOTAS.git"
+  },
+  "keywords": [
+    "mongoDB"
+  ],
+  "author": "Maicol Caballero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcos-Caballero/BLOC-NOTAS/issues"
+  },
+  "homepage": "https://github.com/Marcos-Caballero/BLOC-NOTAS#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
